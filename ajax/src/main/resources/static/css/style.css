@@ -1,0 +1,13 @@
+@charset "UTF-8";
+[class*="col-"] {
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+}
+.col-xs-4 {
+    margin-top: 17px;
+    margin-left: 5px;
+    width: 33%;
+}
+.sel_users{
+	margin-bottom: 15px;
+}
